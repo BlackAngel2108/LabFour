@@ -1,0 +1,5 @@
+C:/Users/User/Desktop/АСД 1/lab3/mp2-lab3-postfix/Сысоев/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/Desktop/АСД 1/lab3/mp2-lab3-postfix/Сысоев/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/User/Desktop/АСД 1/lab3/mp2-lab3-postfix/Сысоев/build/base/CMakeFiles/postfix.dir
+C:/Users/User/Desktop/АСД 1/lab3/mp2-lab3-postfix/Сысоев/build/base_test/CMakeFiles/postfix_test.dir
+C:/Users/User/Desktop/АСД 1/lab3/mp2-lab3-postfix/Сысоев/build/gtest/CMakeFiles/gtest.dir
